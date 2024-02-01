@@ -1,0 +1,5 @@
+UNITY10K STATS:
+words: 54530
+chars: 366036
+lines: 2409
+parts: 4

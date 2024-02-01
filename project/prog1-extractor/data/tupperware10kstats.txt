@@ -1,0 +1,5 @@
+TUPPERWARE10K STATS:
+words: 107732
+chars: 722471
+lines: 6470
+parts: 4
