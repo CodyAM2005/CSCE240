@@ -1,0 +1,21 @@
+Sample inputs:
+
+Input: (Unity 10K)
+1
+
+Output: (In the unity10kstats.txt)
+UNITY10K STATS:
+words: 54530
+chars: 366036
+lines: 2409
+parts: 4
+
+Input: (Tupperware 10K)
+2
+
+Output: (In the tupperware10kstats.txt)
+TUPPERWARE10K STATS:
+words: 107732
+chars: 722471
+lines: 6470
+parts: 4
