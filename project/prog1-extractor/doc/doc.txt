@@ -1,0 +1,19 @@
+Cody Miller
+CSCE240-H01
+02/01/2024
+File Reader Documentation
+
+This program, at its core, will read 10K files from Unity and Tupperware, and give you some statistics in return.
+The statistics that it returns is the number of words, lines, characters, and parts. Parts, as I used them, is each
+"Part" given in the 'table of contents' section of the 10K.
+
+When using this program, you first have to input either a 1 or a 2 into the console, 1 reading the most recent 
+10K from Unity, and 2 reading the most recent 10K from Tupperware.
+
+After writing either 1 or 2 into the console, then you are ready to run the program. The program will prompt you to 
+either input a 1 or a 2. After running the program, the results will both be printed in the terminal, and in the 
+corresponding output file, found in the "data" folder. The Unity statistics output can be found in the data folder
+under 'unity10kstats.txt', while the Tupperware statistics output can be found in the data folder under 
+'tupperware10kstats.txt'.
+
+Sample inputs and outputs can be found in the 'test' folder.
