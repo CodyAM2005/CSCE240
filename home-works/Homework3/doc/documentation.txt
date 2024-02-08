@@ -1,0 +1,29 @@
+Cody Miller
+2/7/2024
+Geometric Property Calculator
+Version 2.0
+
+This program, at its core, takes shapes with side lengths, and returns either the area of perimeter of these shapes.
+
+When using this program, you first have to input shapes into the "input.txt" file that is in the "data" folder. When 
+putting values into the input.txt file, the proper syntax is as follows...
+
+*Each space is a single space, and all calues should be in centimeters*
+RECTANGLE <side1> <side2>
+CIRCLE <radius>
+TRIANGLE <side1> <side2> <side3>
+
+After giving all the shapes you want into the input.txt file, making sure to space them by a new line, then you are
+ready to run the program. The program will prompt you to either input a 1 or a 2. A '1' will find the areas of each
+shape that was input, and a '2' will find the perimeter of each shape. After typing that into the terminal, the 
+results will both be printed in the terminal, and in the output.txt file, found in the "data" folder.
+
+Sample Input: (Option 1)
+RECTANGLE 2 3
+TRIANGLE 1 0.5 0.5
+CIRCLE 1
+---------------------------------
+Sample Output: (For those inputs)
+RECTANGLE AREA: 6
+TRIANGLE has a negative or zero area, and is therefore not a valid shape
+CIRCLE AREA: 3.14159

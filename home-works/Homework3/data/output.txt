@@ -1,0 +1,9 @@
+RECTANGLE AREA: 7.13
+TRIANGLE is invalid, please ensure shape is a valid shape, all capital letters, and has valid input numbers to have all sides connect
+TRIANGLE is invalid, please ensure shape is a valid shape, all capital letters, and has valid input numbers to have all sides connect
+CIRCLE AREA: 12.5664
+CIRCLE is invalid, please ensure shape is a valid shape, all capital letters, and has valid input numbers to have all sides connect
+CIRCle is invalid, please ensure shape is a valid shape, all capital letters, and has valid input numbers to have all sides connect
+RECTANGLE is invalid, please ensure shape is a valid shape, all capital letters, and has valid input numbers to have all sides connect
+RECTANGLE is invalid, please ensure shape is a valid shape, all capital letters, and has valid input numbers to have all sides connect
+RECTANGLE is invalid, please ensure shape is a valid shape, all capital letters, and has valid input numbers to have all sides connect
