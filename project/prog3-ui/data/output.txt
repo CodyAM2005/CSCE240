@@ -1,0 +1,1089 @@
+UNITY - December 31, 2022.txt
+
+Item 8. Financial Statements and Supplementary Data 
+UNITY SOFTWARE INC. 
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS 
+Page 
+Report of Independent Registered Public Accounting Firm (PCAOB ID: 42) 
+62 
+Consolidated Balance Sheets 
+65 
+Consolidated Statements of Operations 
+66 
+Consolidated Statements of Comprehensive Loss 
+67 
+Consolidated Statements of Stockholders’ Equity 
+68 
+Consolidated Statements of Cash Flows 
+71 
+Notes to Consolidated Financial Statements 
+73 
+  
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Report of Independent Registered Public Accounting Firm 
+To the Stockholders and the Board of Directors of Unity Software Inc. 
+Opinion on the Financial Statements 
+We have audited the accompanying consolidated balance sheets of Unity Software Inc. (the Company) as of December 31 2022, and 2021, the related consolidated statements of operations, comprehensive loss, stockholders' equity and cash flows for each of the three years in the period ended December 31, 2022, and the related notes (collectively referred to as the “consolidated financial statements”). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2022 and 2021, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2022, in conformity with U.S. generally accepted accounting principles. 
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2022, based on criteria established in Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated February 27, 2023 expressed an unqualified opinion thereon. 
+Basis for Opinion 
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+Critical Audit Matters 
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Revenue Recognition 
+Description of the Matter		 
+As described in Note 1 to the consolidated financial statements, revenue is recognized when the Company's contractual performance obligations are satisfied, in an amount that reflects the consideration expected. Significant judgment is required to determine the level of integration and interdependencies among the individual promises included in the Company’s Create Solutions subscriptions. This determination influences whether the software is a distinct and separate performance obligation that should be recognized at a point in time or whether the software should be combined with other promises and recognized over time. Management has concluded that the Company’s software subscription is a single combined performance obligation because the software and software updates are highly interdependent and interrelated. As such, the combined performance obligation is recognized over the contract term as the subscription is delivered. 
+ 
+Auditing the Company’s determination whether the promises included in the Company’s Create Solutions subscriptions should be accounted for as distinct performance obligations or as one combined performance obligation required a significant level of auditor judgment. 
+How We Addressed the Matter in Our Audit		We obtained an understanding, evaluated the design and tested the operating effectiveness of internal controls over the Company's determination of performance obligations. We also obtained an understanding of the Company’s Create Solutions subscriptions and tested the application of the revenue recognition accounting model to determine distinct performance obligations. 
+ 
+Our audit procedures also included, among others, assessing the nature, level of integration and interdependency between the software and software updates. We also assessed key assumptions related to the software and software updates with the Company’s product specialists and further reviewed information externally available on the Company’s Create Solutions subscriptions. We have also evaluated the Company’s revenue disclosures in relation to these matters. 
+  
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Valuation of Acquired Intangible Assets 
+Description of the Matter		As described in Note 5 to the consolidated financial statements, on November 7, 2022, the Company acquired ironSource Ltd. for total purchase consideration of $2,915.6 million, of which $1,270.0 million was allocated to the fair value of acquired intangible assets. 
+ 
+Auditing the fair value of acquired intangible assets was complex due to the significant estimation uncertainty in determining the fair value of acquired intangible assets. The significant assumptions used to estimate the fair value of acquired intangible assets included forecasted revenue and discount rates. These assumptions were highly subjective and involved significant judgment as they were based on estimates of future financial performance and could be impacted by competition and technological innovation, among other factors. 
+How We Addressed the Matter in Our Audit		We obtained an understanding, evaluated the design and tested the operating effectiveness of the controls over the Company’s acquisition accounting process, including controls over management’s review of significant assumptions including forecasted revenue and discount rates used in the valuation of acquired intangible assets. 
+ 
+To test the fair value of acquired intangible assets from these acquisitions, our audit procedures included, among others, identifying and testing the significant assumptions including forecasted revenue and discount rates used in the valuation models by assessing the historical accuracy of management’s estimates of its performance and comparing assumptions to historical performance and available external data from comparable companies. Additionally, we involved our valuation specialists to assist with our evaluation of the valuation methodologies and the significant assumptions used in the valuation models, and to perform comparative calculations of the valuation. 
+  
+/s/ Ernst & Young LLP 
+We have served as the Company's auditor since 2019. 
+San Jose, California 
+February 27, 2023 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+UNITY SOFTWARE INC. 
+CONSOLIDATED BALANCE SHEETS 
+(In thousands, except par value) 
+As of 
+December 31, 2022		December 31, 2021 
+Assets			 
+Current assets:			 
+Cash and cash equivalents	$	1,485,084 			$	1,055,776 	 
+Short-term investments	101,711 			681,323 	 
+Accounts receivable, net	633,775 			340,491 	 
+Prepaid expenses and other	144,070 			73,520 	 
+Total current assets	2,364,640 			2,151,110 	 
+Property and equipment, net	121,863 			106,106 	 
+Goodwill	3,200,955 			1,620,127 	 
+Intangible assets, net	1,922,234 			814,386 	 
+Other assets	224,293 			149,617 	 
+Total assets	$	7,833,985 			$	4,841,346 	 
+Liabilities and stockholders’ equity			 
+Current liabilities:			 
+Accounts payable	$	20,221 			$	14,009 	 
+Accrued expenses and other	326,339 			233,976 	 
+Publisher payables	445,622 			237,637 	 
+Deferred revenue	218,102 			140,528 	 
+Total current liabilities	1,010,284 			626,150 	 
+Convertible notes	2,707,171 			1,703,035 	 
+Long-term deferred revenue	103,442 			15,945 	 
+Other long-term liabilities	258,959 			101,825 	 
+Total liabilities	4,079,856 			2,446,955 	 
+Commitments and contingencies (Note 10)			 
+Redeemable noncontrolling interests	219,563 			— 	 
+Unity Software Inc. Stockholders’ equity:			 
+Common stock,$0.000005 par value: 
+Authorized shares - 1,000,000 and 1,000,000 
+Issued and outstanding shares - 374,243 and 292,592 
+2 			2 	 
+Additional paid-in capital	5,779,776 			3,729,874 	 
+Accumulated other comprehensive loss	(1,691)			(3,858)	 
+Accumulated deficit	(2,249,819)			(1,331,627)	 
+Total Unity Software Inc. stockholders’ equity	3,528,268 			2,394,391 	 
+Noncontrolling interest	6,298 			— 	 
+Total liabilities and stockholders’ equity	$	7,833,985 			$	4,841,346 	 
+  
+See accompanying Notes to Consolidated Financial Statements. 
+65 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+UNITY SOFTWARE INC. 
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+(In thousands, except per share data) 
+Year Ended December 31, 
+2022		2021		2020 
+Revenue	$	1,391,024 			$	1,110,526 			$	772,445 	 
+Cost of revenue	442,500 			253,630 			172,347 	 
+Gross profit	948,524 			856,896 			600,098 	 
+Operating expenses					 
+Research and development	959,491 			695,710 			403,515 	 
+Sales and marketing	497,956 			344,939 			216,416 	 
+General and administrative	373,290 			347,912 			254,979 	 
+Total operating expenses	1,830,737 			1,388,561 			874,910 	 
+Loss from operations	(882,213)			(531,665)			(274,812)	 
+Interest expense	(7,404)			(1,131)			(1,520)	 
+Interest income and other expense, net	7,192 			1,566 			(3,885)	 
+Loss before income taxes	(882,425)			(531,230)			(280,217)	 
+Provision for (benefit from) Income taxes	37,063 			1,377 			2,091 	 
+Net loss	$	(919,488)			$	(532,607)			$	(282,308)	 
+Net income (loss) attributable to noncontrolling interest and redeemable noncontrolling interests	(1,296)			— 			— 	 
+Adjustments attributable to redeemable noncontrolling interests	2,870 			— 			— 	 
+Net loss attributable to Unity Software Inc.	$	(921,062)			$	(532,607)			$	(282,308)	 
+Basic and diluted net loss per share attributable to Unity Software Inc.	$	(2.96)			$	(1.89)			$	(1.66)	 
+Weighted-average shares used in computation of basic and diluted net loss per share	310,504 			282,195 			169,973 	 
+  
+See accompanying Notes to Consolidated Financial Statements. 
+66 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+UNITY SOFTWARE INC. 
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS 
+(In thousands) 
+Year Ended December 31, 
+2022		2021		2020 
+Net loss	$	(919,488)			$	(532,607)			$	(282,308)	 
+Other comprehensive loss, net of taxes:					 
+Change in foreign currency translation adjustment	259 			583 			161 	 
+Change in unrealized gains (losses) on short-term investments	969 			(1,023)			53 	 
+Change in unrealized gains on derivative instruments	939 			— 			— 	 
+Other comprehensive income (loss)	2,167 			(440)			214 	 
+Comprehensive loss	$	(917,321)			$	(533,047)			$	(282,094)	 
+Comprehensive income (loss) attributable to noncontrolling interest and redeemable noncontrolling interests:					 
+Net income (loss) attributable to noncontrolling interest and redeemable noncontrolling interests	(1,296)			— 			— 	 
+Foreign currency translation attributable to noncontrolling interest and redeemable noncontrolling interests	560 			— 			— 	 
+Comprehensive income (loss) attributable to noncontrolling interest and redeemable noncontrolling interests	(736)			— 			— 	 
+Comprehensive loss attributable to Unity Software Inc.	$	(916,585)			$	(533,047)			$	(282,094)	 
+  
+See accompanying Notes to Consolidated Financial Statements. 
+67 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+UNITY SOFTWARE INC. 
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY 
+(In thousands, except share data) 
+Accumulated								 
+Additional		Other				Unity Software Inc.				 
+Convertible Preferred Stock		Common Stock		Paid‑In		Comprehensive		Accumulated		Stockholders’		Noncontrolling		Total 
+Shares		Amount		Shares		Amount		Capital		Loss		Deficit		Equity		 
+Interest (1) 
+Equity 
+Balance at December 31, 2019	95,899,214 			$	686,559 			123,261,024 			$	1 			$	226,173 			$	(3,632)			$	(515,190)			$	393,911 			$	— 			$	393,911 	 
+Issuance of common stock	— 			— 			4,545,455 			— 			100,000 			— 			— 			100,000 			— 			100,000 	 
+Issuance of common stock in connection with initial public offering, net of underwriting discounts and commissions and offering costs	— 			— 			28,750,000 			— 			1,417,582 			— 			— 			1,417,582 			— 			1,417,582 	 
+Issuance of common stock in connection with charitable donation	— 			— 			750,000 			— 			63,615 			— 			— 			63,615 			— 			63,615 	 
+Issuance of common stock from employee equity plans	— 			— 			12,415,153 			— 			34,260 			— 			— 			34,260 			— 			34,260 	 
+Common stock issued in connection with acquisitions	— 			— 			1,103,190 			— 			25,380 			— 			— 			25,380 			— 			25,380 	 
+Purchase and retirement of common stock	— 			— 			(5,000)			— 			(110)			— 			— 			(110)			— 			(110)	 
+Issuance of convertible Series E preferred stock, net of issuance costs	6,818,182 			149,970 			— 			— 			— 			— 			— 			149,970 			— 			149,970 	 
+Conversion of convertible preferred stock to common stock upon initial public offering	(102,717,396)			(836,529)			102,717,396 			1 			836,528 			— 			— 			— 			— 			— 	 
+Stock‑based compensation expense	— 			— 			— 			— 			134,629 			— 			— 			134,629 			— 			134,629 	 
+Net loss	— 			— 			— 			— 			— 			— 			(282,308)			(282,308)			— 			(282,308)	 
+Other comprehensive income	— 			— 			— 			— 			— 			214 			— 			214 			— 			214 	 
+Balance at December 31, 2020	— 			$	— 			273,537,218 			$	2 			$	2,838,057 			$	(3,418)			$	(797,498)			$	2,037,143 			$	— 			$	2,037,143 	 
+  
+68 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+UNITY SOFTWARE INC. 
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY 
+(In thousands, except share data) 
+Year Ended December 31, 2021 
+Accumulated								 
+Additional		Other				Unity Software Inc.				 
+Convertible Preferred Stock		Common Stock		Paid-In		Comprehensive		Accumulated		Stockholders'		Noncontrolling		Total 
+Shares		Amount		Shares		Amount		Capital		Loss		Deficit		Equity		 
+Interest (1) 
+Equity 
+Balance at December 31, 2020	— 			$	— 			273,537,218 			$	2 			$	2,838,057 			$	(3,418)			$	(797,498)			$	2,037,143 			$	— 			$	2,037,143 	 
+Cumulative effect of accounting change	— 			— 			— 			— 			— 			— 			(1,522)			(1,522)			— 			(1,522)	 
+Issuance of common stock from employee equity plans	— 			— 			11,650,963 			— 			66,704 			— 			— 			66,704 			— 			66,704 	 
+Issuance of common stock for settlement of RSUs	— 			— 			3,935,813 			— 			— 			— 			— 			— 			— 			— 	 
+Common stock issued in connection with acquisitions	— 			— 			3,468,362 			— 			526,081 			— 			— 			526,081 			— 			526,081 	 
+Purchase of capped calls	— 			— 			— 			— 			(48,127)			— 			— 			(48,127)			— 			(48,127)	 
+Stock‑based compensation expense	— 			— 			— 			— 			347,159 			— 			— 			347,159 			— 			347,159 	 
+Net loss	— 			— 			— 			— 			— 			— 			(532,607)			(532,607)			— 			(532,607)	 
+Other comprehensive loss	— 			— 			— 			— 			— 			(440)			— 			(440)			— 			(440)	 
+Balance at December 31, 2021	— 			$	— 			292,592,356 			$	2 			$	3,729,874 			$	(3,858)			$	(1,331,627)			$	2,394,391 			$	— 			$	2,394,391 	 
+  
+69 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+UNITY SOFTWARE INC. 
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY 
+(In thousands, except share data) 
+Year Ended December 31, 2022 
+Accumulated				Total				 
+Additional		Other				Unity				 
+Convertible Preferred Stock		Common Stock		Paid‑In		Comprehensive		Accumulated		Stockholders’		Noncontrolling		Total 
+Shares		Amount		Shares		Amount		Capital		Loss		Deficit		Equity		 
+Interest (1) 
+Equity 
+Balance at December 31, 2021	— 			$	— 			292,592,356 			$	2 			$	3,729,874 			$	(3,858)			$	(1,331,627)			$	2,394,391 			$	— 			$	2,394,391 	 
+Issuance of common stock from employee equity plans	— 			— 			5,119,859 			— 			63,493 			— 			— 			63,493 			— 			63,493 	 
+Issuance of common stock for settlement of RSUs	— 			— 			6,545,464 			— 			— 			— 			— 			— 			— 			— 	 
+Common stock issued in connection with acquisitions	— 			— 			112,716,696 			— 			2,932,228 			— 			— 			2,932,228 			— 			2,932,228 	 
+Purchase and retirement of common stock	— 			— 			(42,731,179)			— 			(1,500,000)			— 			— 			(1,500,000)			— 			(1,500,000)	 
+Stock‑based compensation expense	— 			— 			— 			— 			549,671 			— 			— 			549,671 			— 			549,671 	 
+Capital contribution from minority interest holder	— 			— 			— 			— 			7,380 			— 			— 			7,380 			6,387 			13,767 	 
+Net loss, including adjustment to redeemable noncontrolling interests	— 			— 			— 			— 			(2,870)			— 			(918,192)			(921,062)			(89)			(921,151)	 
+Other comprehensive income	— 			— 			— 			— 			— 			2,167 			— 			2,167 			— 			2,167 	 
+Balance at December 31, 2022	— 			$	— 			374,243,196 			$	2 			$	5,779,776 			$	(1,691)			$	(2,249,819)			$	3,528,268 			$	6,298 			$	3,534,566 	 
+  
+(1)    Excludes redeemable noncontrolling interests. 
+See accompanying Notes to Consolidated Financial Statements. 
+70 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+UNITY SOFTWARE INC. 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(In thousands) 
+Year Ended December 31, 
+2022		2021		2020 
+Operating activities					 
+Net loss	$	(919,488)			$	(532,607)			$	(282,308)	 
+Adjustments to reconcile net loss to net cash used in operating activities:					 
+Depreciation and amortization	211,576 			64,567 			42,974 	 
+Common stock charitable donation expense	— 			— 			63,615 	 
+Stock-based compensation expense	550,065 			347,159 			134,629 	 
+Other	21,418 			13,843 			3,246 	 
+Changes in assets and liabilities, net of effects of acquisitions:					 
+Accounts receivable, net	(9,548)			(65,151)			(63,294)	 
+Prepaid expenses and other	(21,719)			(22,014)			(22,116)	 
+Other assets	40,096 			5,157 			16,351 	 
+Accounts payable	(17,574)			2,022 			(2,526)	 
+Accrued expenses and other	(1,041)			31,767 			94,639 	 
+Publisher payables	(50,242)			55,368 			44,605 	 
+Other long-term liabilities	(29,790)			(27,313)			(47,310)	 
+Deferred revenue	166,816 			15,753 			37,408 	 
+Net cash used in operating activities	(59,431)			(111,449)			19,913 	 
+Investing activities					 
+Purchases of short-term investments	(150,911)			(519,698)			(482,453)	 
+Proceeds from sales of short-term investments	436,293 			— 			— 	 
+Proceeds from principal repayments and maturities of short-term investments	387,453 			308,957 			1,644 	 
+Purchases of non-marketable investments	(15,000)			(4,600)			(1,000)	 
+Sales of non-marketable investments	1,000 			— 			— 	 
+Purchases of property and equipment	(57,138)			(41,938)			(40,156)	 
+Acquisition of intangible assets	— 			— 			(750)	 
+Business acquisitions, net of cash acquired	121,531 			(1,580,081)			(52,475)	 
+Net cash provided by (used in) investing activities	723,228 			(1,837,360)			(575,190)	 
+Financing activities					 
+Proceeds from issuance of convertible notes	1,000,000 			1,725,000 			— 	 
+Purchase of capped calls	— 			(48,127)			— 	 
+Proceeds from revolving loan facility	— 			— 			125,000 	 
+Payment of principal related to revolving loan facility	— 			— 			(125,000)	 
+Payment of debt issuance costs	(379)			(22,575)			(247)	 
+Capital contribution from noncontrolling interest holders	210,252 			— 			— 	 
+Proceeds from initial public offering, net of underwriting discounts, commissions, and offering costs	— 			— 			1,417,582 	 
+Proceeds from issuance of convertible preferred stock, net of issuance costs	— 			— 			149,970 	 
+Proceeds from issuance of common stock	— 			— 			100,000 	 
+Repurchase and retirement of common stock	(1,500,000)			— 			(110)	 
+Proceeds from issuance of common stock from employee equity plans	63,493 			66,704 			34,260 	 
+Net cash (used in) provided by financing activities	(226,634)			1,721,002 			1,701,455 	 
+  
+71 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+UNITY SOFTWARE INC. 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(In thousands) 
+Year Ended December 31, 
+2022		2021		2020 
+Effect of foreign exchange rate changes on cash, cash equivalents, and restricted cash	1,926 			459 			673 	 
+Increase (decrease) in cash, cash equivalents, and restricted cash	439,089 			(227,348)			1,146,851 	 
+Cash and restricted cash, beginning of period	1,066,599 			1,293,947 			147,096 	 
+Cash, cash equivalents, and restricted cash, end of period	$	1,505,688 			$	1,066,599 			$	1,293,947 	 
+Supplemental disclosure of cash flow information:					 
+Cash paid for interest	$	— 			$	110 			$	1,393 	 
+Cash paid for income taxes, net of refunds	$	25,206 			$	5,651 			$	19,956 	 
+Cash paid for operating leases	$	28,463 			$	29,811 			$	29,336 	 
+Supplemental disclosures of non‑cash investing and financing activities:					 
+Fair value of common stock issued as consideration for business and asset acquisitions	$	2,932,296 			$	526,081 			$	25,380 	 
+Assets acquired under operating lease	$	20,699 			$	18,507 			$	24,647 	 
+  
+The below table provides a reconciliation of cash, cash equivalents, and restricted cash reported within the consolidated balance sheets to the total of the same amounts shown on the consolidated statements of cash flows (in thousands): 
+As of December 31, 
+2022		2021		2020 
+Cash and cash equivalents	$	1,485,084 			$	1,055,776 			$	1,272,578 	 
+Restricted cash, included in other assets	20,604 			10,823 			21,369 	 
+Total cash, cash equivalents, and restricted cash	$	1,505,688 			$	1,066,599 			$	1,293,947 	 
+  
+See accompanying Notes to Consolidated Financial Statements. 
+72 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+UNITY SOFTWARE INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+1. Accounting Policies 
+Description of Business 
+We provide a comprehensive set of software solutions to create, run and monetize interactive, real-time 2D and 3D content for mobile phones, tablets, PCs, consoles, and augmented and virtual reality devices, among others. 
+We are headquartered in San Francisco, California and have operations in the United States, Denmark, Israel, Belgium, Canada, China, Colombia, Czech Republic, Finland, France, Germany, Ireland, Japan, Lithuania, Portugal, Singapore, South Korea, Spain, Sweden, Switzerland, the U.K., and the United Arab Emirates. 
+We market our solutions directly through our online store and field sales operations in North America, Denmark, China, Finland, the U.K., Germany, Israel, Japan, Singapore, South Korea, and Spain, and indirectly through independent distributors and resellers worldwide. 
+Basis of Presentation and Consolidation 
+We prepared the accompanying consolidated financial statements in accordance with U.S. generally accepted accounting principles ("GAAP"). The consolidated financial statements include the accounts of Unity Software Inc., its wholly owned subsidiaries, and entities consolidated under the voting interest model. We have eliminated all intercompany balances and transactions. In our opinion, the information contained herein reflects all adjustments necessary for a fair presentation of our results of operations, financial position, cash flows, and stockholders’ equity. All such adjustments are of a normal, recurring nature. 
+Use of Estimates 
+The preparation of consolidated financial statements in conformity with GAAP requires management to make certain estimates, judgments, and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements, as well as the reported amounts of revenue and expenses during the reporting period. For us, these estimates include, but are not limited to, revenue recognition, the measurement of liabilities for uncertain tax positions and deferred tax assets and liabilities, the fair value of tangible and intangible assets acquired and liabilities assumed through business combinations, the fair value of redeemable noncontrolling interests, the fair value of equity awards assumed and replaced in connection with the acquisition of ironSource, and customer life for capitalized commissions. Actual results could differ from those estimates, and such differences could be material to our financial position and results of operations. 
+Revenue Recognition 
+Revenue is measured based on the amount of consideration that we expect to receive from our customers. Revenue excludes sales and indirect taxes. In arrangements where we have multiple performance obligations, the transaction price is allocated to each performance obligation using the relative stand-alone selling price ("SSP"). We generally determine SSP based on observable pricing. When observable pricing is not available, we use cost plus margin analysis to determine SSP. 
+During the fourth quarter of 2022, we completed our acquisition of ironSource. This resulted in adjustments to our internal reporting structure to focus on two complementary and interconnected solutions: (1) Create Solutions and (2) Grow Solutions. 
+73 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Create Solutions 
+Create Solutions are a combination of software and services that enable customers to edit, run, and iterate real-time 2D and 3D experiences. Revenue is primarily derived from Create Solution Subscriptions, Enterprise Support, Professional Services, and Cloud and Hosting services. 
+Create Solutions subscriptions provide customers with software, embedded cloud functionality, and software updates. As the software and software updates are highly interdependent and interrelated and these services have the same pattern of performance as the embedded cloud functionality, we combine these promises and account for them as a single performance obligation that is recognized over time. Enterprise customers may purchase an enhanced support offering ("Enterprise Support") that is sold separately and is considered its own performance obligation. Create Solutions subscriptions and enterprise support typically have a term of one to five years and are billed in monthly, quarterly and annual installments, and recognized ratably over the service period. 
+Professional services revenue is primarily composed of consulting, platform integration, training, and custom application and workflow development. Revenue is recognized as services are rendered. We typically invoice our customers on a milestone basis or when promised services are delivered. 
+Our Cloud and Hosting service arrangements are based on a fixed fee or consumption-based model. For fixed fee arrangements revenue is recognized ratably over the contractual service term as our obligations are generally fulfilled evenly throughout the hosting period. For consumption-based arrangements, we recognize revenue as services are provided. 
+Grow Solutions 
+Grow Solutions revenue primarily consists of advertising services provided through our monetization solutions that allow publishers, which include mobile application developers, original equipment manufacturers ("OEM") and mobile carriers to sell available advertising inventory on their mobile applications or hardware devices to advertisers for in-app or on-device placements. We present revenue on a net basis for sales where we are facilitating the transaction between advertisers and publishers and do not have control over in-app or on-device placement and on a gross basis for advertising sales where we are the publisher and have control of the in-app or on-device placement. Advertising revenue is recognized at a point in time when the agreed upon action is completed or when the advertisement is displayed to users. 
+Cost of Revenue 
+Cost of revenue for the delivery of software services, professional services, and advertising consists primarily of hosting expenses, personnel costs (including salaries, stock-based compensation, and benefits) for employees associated with our product support and professional services organizations, credit card fees, third-party license fees, and allocated shared costs, including facilities, IT, and security costs, as well as amortization of related capitalized software costs and depreciation of related property and equipment and amortization if acquired intangible assets. 
+Stock-Based Compensation 
+Stock-based compensation expense related to our employees and non-employee directors is calculated based on the fair value on the grant date. For restricted stock units ("RSUs"), fair value is based on the closing price of our common stock on the grant date. 
+74 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+The fair value of stock options and purchases made under the 2020 Employee Stock Purchase Plan ("2020 ESPP") is estimated using the Black-Scholes pricing model. This model requires certain assumptions be used as inputs, such as the fair value of the underlying common stock, expected term of the option before exercise, expected volatility of our common stock, expected dividend yield, and a risk-free interest rate. Options granted during the year have a maximum contractual term of ten years. We have limited historical stock option activity and therefore estimate the expected term of stock options granted using the simplified method, which represents the average of the contractual term of the stock option and its weighted-average vesting period. The expected volatility of stock options and employee stock purchase plan ("ESPP") purchases are based upon our historical volatility and the historical volatility of a number of publicly traded companies in similar industries over similar durations. We have historically not declared or paid any dividends and do not currently expect to do so in the foreseeable future. The risk-free interest rates used are based on the U.S. Department of Treasury ("U.S. Treasury") yield in effect at the time of grant for zero-coupon U.S. Treasury notes with maturities approximately equal to the expected term of the stock options and ESPP purchases. 
+The fair value of price-vested units ("PVUs"), which are RSUs that contain both service-based and market-based vesting conditions, is estimated using the Monte Carlo simulation model and is based on the closing stock price of our common stock on the grant date modified to reflect the impact of the market-based vesting condition, including the estimated payout level based on that condition. We do not adjust compensation cost for subsequent changes in the expected outcome of the market-based vesting conditions. 
+In connection with the acquisition of ironSource, we estimated the fair value of the assumed equity awards using a binomial lattice model. The assumed equity awards relating to future services is being recognized over the remaining service period. 
+We recognize stock-based compensation expense for RSUs, stock options, and PVUs, on a straight-line basis, over the requisite service period, generally, a vesting period of one year to four years. We recognize stock-based compensation expense related to the 2020 ESPP on a straight-line basis over the offering period. We do not estimate forfeitures but instead account for them as they occur. 
+Cash, Cash Equivalents, and Restricted Cash 
+We consider all highly liquid investments with original maturities of three months or less at date of purchase to be cash equivalents. Our cash equivalents include money market funds, time deposits, and commercial paper. 
+As of December 31, 2022 and 2021, restricted cash was $20.6 million and $10.8 million, respectively. Restricted cash consists of secured letters of credit issued in connection with our operating leases and other amounts held in escrow. Restrictions typically lapse at the end of the lease term, and restricted cash is classified as current or non-current based on the remaining term of the restriction. 
+Short-term Investments 
+Our short-term investments consist of investments in short-term deposits, U.S. treasury securities, asset-backed securities, corporate bonds, commercial paper, and supranational bonds. We classify our investments in debt securities as available-for-sale at the time of purchase. We consider all debt securities as available for use in current operations, including those with maturity dates beyond one year, and therefore classify these securities as current assets in the consolidated balance sheets. Unrealized gains and losses, net of taxes, are included in accumulated other comprehensive loss, which is reflected as a separate component of stockholders’ equity in our consolidated balance sheets. During the year ended December 31, 2022, we sold the entirety of our available-for-sale debt securities portfolio. 
+75 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Accounts Receivable 
+Accounts receivable are recorded at the original amount, net of allowances for uncollectible amounts. We estimate losses on uncollectible amounts based on expected losses, including our historical experience of actual losses. The estimated losses on uncollectible amounts are recorded in general and administrative expense on our consolidated statements of operations. As of December 31, 2022 and 2021, the allowance for uncollectible amounts was $9.4 million and $5.4 million, respectively. 
+Credit Risk and Concentrations 
+Financial instruments that potentially subject us to a concentration of credit risk consist primarily of cash and cash equivalents, short-term investments, and accounts receivable. We place our domestic and foreign cash and cash equivalents, as well as our short-term investments, with large, creditworthy financial institutions. Balances in these accounts may exceed federally insured limits at times. 
+In general, we do not require our customers to provide collateral or other security to support accounts receivable. To reduce credit risk, management performs credit evaluations of our customers’ financial condition, as warranted, and continually analyzes the allowance for doubtful accounts, which we maintain based upon the expected collectability of accounts receivable. 
+As of December 31, 2022 and 2021, no individual customer represented 10% or more of the aggregate receivables. For the years ended December 31, 2022, 2021, and 2020, no individual customer represented 10% or more of total revenue. 
+Fair Value of Financial Instruments 
+We define fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities, which are required to be recorded at fair value, we consider the principal or most advantageous market in which to transact and the market-based risk. The carrying amounts reported in the consolidated financial statements approximate the fair value for cash and cash equivalents, short-term investments, accounts receivable, accounts payable, and accrued liabilities, due to their short-term nature. 
+Comprehensive Loss 
+Comprehensive loss is comprised of net loss and other comprehensive loss. Our other comprehensive loss includes unrealized gains and losses on available-for-sale investments, derivative instruments, and foreign currency translation adjustment. 
+Property and Equipment, Net 
+Property and equipment are stated at cost less accumulated depreciation and amortization, computed using the straight-line method based on the estimated useful lives of the assets, which is generally three years for computer and other hardware and five years for furniture. Leasehold improvements are amortized over the shorter of their estimated useful life or the remaining term of the lease. Software licenses are amortized over the shorter of their estimated useful life or license term, which is generally three to five years. 
+The costs of repairs and maintenance are expensed when incurred, while expenditures for refurbishments and improvements that significantly add to the productive capacity or extend the useful life of an asset are capitalized. 
+Upon retirement or sale, the cost of assets disposed of and the related accumulated depreciation are removed from the accounts, and any resulting gain or loss is credited or charged to the consolidated statement of operations. 
+76 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Leases 
+Primarily all of our leases have been categorized as operating leases at inception. On certain of our lease agreements, we may receive rent holidays and other incentives provided by the landlord. We recognize lease costs on a straight-line basis without regard to deferred payment terms, such as rent holidays, that defer the commencement date of required payments. Additionally, incentives we receive are treated as a reduction of our costs over the term of the agreement. Leasehold improvements are capitalized at cost and amortized over the lesser of their expected useful life or the non-cancellable term of the lease. 
+We establish assets and liabilities for the present value of estimated future costs to retire long-lived assets at the termination or expiration of a lease. Such assets are depreciated over the lease period into operating expense, and the recorded liabilities are accreted to the future value of the estimated retirement costs. 
+Convertible Senior Notes and Capped Call Transactions 
+We account for each issuance of our Convertible Senior Notes as single liabilities measured at their amortized cost. Interest expense related to the amortization of debt issuance costs are recorded in other income and expense. 
+We record the cost of capped call transactions as a reduction of our additional paid-in capital on our consolidated balance sheets. Capped call transactions will not be remeasured as long as they continue to meet the conditions for equity classification. 
+Goodwill and Intangible Assets 
+We allocate the fair value of purchase consideration to the tangible assets acquired, liabilities assumed, and intangible assets acquired based on their estimated fair values as of the acquisition date. The excess of the fair value of purchase consideration over the fair values of these identifiable assets and liabilities is recorded as goodwill. Intangible assets, with the exception of certain contractual relationships, that have a finite life are amortized on a straight-line basis over their estimated useful lives, which typically range from three to six years. Certain contractual relationships are amortized using an accelerated method of amortization, which reflects the pattern in which the economic benefits from the intangible assets are expected to be recognized. 
+On an annual basis, we evaluate the estimated remaining useful life of acquired intangible assets and whether events or changes in circumstances warrant a revision to the remaining amortization period. No changes to the useful lives of our intangible assets were deemed necessary during the years ended December 31, 2022, 2021, and 2020 based on management's evaluation. 
+Segments 
+We operate as a single operating segment. The chief operating decision maker is our Chief Executive Officer, who makes resource allocation decisions and assesses performance based on financial information presented on a consolidated basis, accompanied by disaggregated information of our revenue. Accordingly, we have determined that we have a single reportable segment and operating segment structure. 
+77 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Capitalized Software Costs and Software Implementation Costs 
+We capitalize implementation costs incurred in our cloud computing service arrangements related to enterprise software solutions (“capitalized implementation costs”) and costs associated with customized internal‑use software systems that have reached the application development stage. Such capitalized costs include external direct costs utilized in developing or obtaining the applications and payroll and payroll‑related expenses for employees, who are directly associated with the development of the applications. We capitalize such costs during the application development stage, which begins when the preliminary project stage is complete and ceases at the point in which the project is substantially complete and is ready for its intended purpose. Capitalized software costs are amortized on a straight-line basis over their estimated useful life, which is generally two to three years. Management evaluates the useful lives of these assets on an annual basis and tests for impairment whenever events or changes in circumstances occur that could impact the recoverability of these assets. Capitalized implementation costs are expensed over the term of the hosting arrangement, which is the fixed, non-cancellable term of the arrangement, plus any reasonably certain renewal periods. 
+The amount of capitalized software costs and capitalized implementation costs was $5.7 million and $5.9 million, respectively, during the year ended December 31, 2022 and $1.2 million and $4.7 million, respectively, during the year ended December 31, 2021. Capitalized software costs are included in property and equipment, net, on the consolidated balance sheets. The current portion of capitalized implementation costs are included in prepaid expenses on the consolidated balance sheets, and the non-current portion of capitalized implementation costs are included in other assets on the consolidated balance sheets. 
+Research and development costs related to internally developed software, which consist primarily of software development costs, are expensed as incurred. Based upon our product development process, technological feasibility is established upon completion of a working model. Costs incurred between completion of the working model and the point at which the product is ready for general release have not been significant. Therefore, all product development costs have been charged to research and development expense. 
+Impairment Analysis 
+We evaluate intangible assets and long-lived assets for possible impairment whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable. This includes but is not limited to significant adverse changes in business climate, market conditions, or other events that indicate an asset’s carrying amount may not be recoverable. Recoverability of these assets is measured by comparing the carrying amount of each asset to the future undiscounted cash flows the asset is expected to generate. If the undiscounted cash flows used in the test for recoverability are less than the carrying amount of these assets, the carrying amount of such assets is reduced to fair value. 
+We evaluate and test the recoverability of our goodwill for impairment at least annually during our fourth quarter of each calendar year or more often if and when circumstances indicate that goodwill may not be recoverable. 
+There were no material impairments of capitalized software costs, capitalized implementation costs, intangible assets, long-lived assets, or goodwill during the years ended December 31, 2022, 2021, and 2020. 
+Income Taxes 
+We are subject to income taxes in the United States and numerous foreign jurisdictions. Significant judgment is required in determining our provision for income taxes and income tax assets and liabilities, including evaluating uncertainties in the application of accounting principles and complex tax laws. 
+78 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+We record an income tax expense (or benefit) for the anticipated tax consequences of the reported results of operations using the asset and liability method. Under this method, we recognize deferred income tax assets and liabilities for the expected future tax consequences of temporary differences between the financial reporting and tax bases of assets and liabilities, as well as for NOL and tax credit carryforwards. Deferred tax assets and liabilities are measured using the tax rates that are expected to apply to taxable income for the years in which those tax assets and liabilities are expected to be realized or settled. We recognize the deferred income tax effects of a change in tax rates in the period of the enactment. 
+We record a valuation allowance to reduce our deferred tax assets to the net amount that we believe is more likely than not to be realized. We consider all available evidence, both positive and negative, including historical levels of income, expectations and risks associated with estimates of future taxable income, and ongoing tax planning strategies in assessing the need for a valuation allowance. 
+We recognize tax benefits from uncertain tax positions only if we believe that the position is more likely than not to be sustained on examination by the taxing authorities based on the technical merits of the position. Although we believe that we have adequately reserved for our uncertain tax positions (including net interest and penalties), we can provide no assurance that the final tax outcome of these matters will not be materially different. We make adjustments to these reserves in accordance with the income tax accounting guidance when facts and circumstances change, such as the closing of a tax audit or the refinement of an estimate. To the extent that the final tax outcome of these matters is different from the amounts recorded, such differences will affect our income tax expense (or benefit) in the period in which such determination is made, and could have a material impact on our financial condition and operating results. 
+We recognize interest and penalties related to unrecognized tax benefits within income tax expense in the accompanying consolidated statement of operations. Accrued interest and penalties are included in income and other taxes payable on the consolidated balance sheets. 
+Translation of Foreign Currencies 
+The functional currency of the majority of our foreign subsidiaries is the U.S. dollar. Foreign currency transaction gains and losses are included in interest and other income (expense), net, on the consolidated statements of operations for the period. For U.S. dollar functional currency subsidiaries, all assets and liabilities denominated in a foreign currency are translated into U.S. dollars at the exchange rate on the balance sheet date. Revenue and expenses are translated at the average exchange rate during the period. Equity transactions are translated using historical exchange rates. For a foreign subsidiary where the local currency is the functional currency, adjustments to translate those statements into U.S. dollars are recorded in accumulated other comprehensive loss in stockholders’ equity. 
+Warranties and Indemnifications 
+In the ordinary course of business, we may provide indemnifications of varying scope and terms to customers, vendors, lessors, investors, directors, officers, employees and other parties with respect to certain matters. Indemnification may include losses from our breach of such agreements, services we provide, or third-party intellectual property infringement claims. These indemnifications may survive termination of the underlying agreement and the maximum potential amount of future indemnification payments may not be subject to a cap. As of December 31, 2022 and 2021, there were no known events or circumstances that have resulted in a material indemnification liability to us and we did not incur material costs to defend lawsuits or settle claims related to these indemnifications. 
+We generally do not offer warranties for our software products. With certain customers, we will warrant that our software products will operate without material error and/or substantially in conformity with product documentation. We have not experienced any warranty claims to date, and no liabilities have been recorded as of December 31, 2022 and 2021. 
+79 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Advertising Costs 
+Advertising costs are expensed as incurred as a component of sales and marketing expense in the consolidated statements of operations. Advertising expense was approximately $18.8 million, $24.2 million, and $12.3 million for the years ended December 31, 2022, 2021, and 2020, respectively. 
+2. Revenue 
+The table below presents our revenue (in thousands) disaggregated by source, which also have similar economic characteristics. Our results for the years ended December 31, 2022, 2021, and 2020 have been adjusted to align with our focus on Create and Grow Solutions by including annual revenue of approximately $82.7 million, $74.8 million, and $70.0 million, respectively, related to Strategic Partnerships and Other in Create Solutions and moving annual revenue of approximately $125.6 million, $105.5 million, and $71.4 million, respectively, related to Unity Games Services from Operate Solutions to Create Solutions. 
+Year Ended December 31, 
+2022		2021		2020 
+Create Solutions	$	716,078 			$	506,920 			$	372,717 	 
+Grow Solutions	674,946 			603,606 			399,728 	 
+Total revenue	$	1,391,024 			$	1,110,526 			$	772,445 	 
+  
+The following table presents our revenue disaggregated by geography, based on the invoice address of our customers (in thousands): 
+Year Ended December 31, 
+2022		2021		2020 
+United States	$	348,238 			$	266,825 			$	197,343 	 
+Greater China (1) 
+185,758 			169,330 			111,037 	 
+EMEA (2) 
+488,761 			414,902 			279,344 	 
+APAC (3) 
+327,433 			222,348 			149,527 	 
+Other Americas (4) 
+40,834 			37,121 			35,194 	 
+Total revenue	$	1,391,024 			$	1,110,526 			$	772,445 	 
+  
+(1)    Greater China includes China, Hong Kong, and Taiwan. 
+(2)    Europe, the Middle East, and Africa ("EMEA"). 
+(3)    Asia-Pacific, excluding Greater China ("APAC"). 
+(4)    Canada and Latin America ("Other Americas"). 
+Sales Commissions 
+Sales commissions that have a benefit beyond one year are capitalized and amortized on a straight line method over the expected period of benefit, which is generally three years. As of December 31, 2022, capitalized commissions, net of amortization, included in prepaid expenses and other and other assets were $8.8 million and $5.3 million, respectively. As of December 31, 2021, capitalized commissions, net of amortization, included in prepaid expenses and other and other assets were $7.9 million and $8.7 million, respectively. 
+For the years ended December 31, 2022 and 2021, we recorded amortization costs of $9.4 million and $5.6 million, respectively, in sales and marketing expenses. We did not incur any impairment losses for the years ended December 31, 2022 and 2021. 
+80 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Contract Balances and Remaining Performance Obligations 
+Contract assets (unbilled receivables) included in accounts receivable, net, are recorded when revenue is earned in advance of customer billing schedules. Unbilled receivables totaled $37.5 million and $28.3 million as of December 31, 2022 and 2021, respectively. 
+Contract liabilities (deferred revenue) relate to payments received in advance of performance under the contract. Revenue recognized during the year ended December 31, 2022 that was included in the deferred revenue balances at January 1, 2022 was $137.4 million. 
+Additionally, we have performance obligations associated with commitments in customer contracts to perform in the future that had not yet been recognized in our consolidated financial statements. For contracts with original terms that exceed one year, those commitments not yet recognized were $620.0 million and relate primarily to Create Solutions subscriptions, Enterprise Support, and Strategic Partnerships. These commitments generally extend over the next one to five years and we expect to recognize approximately $266.5 million or 43% of this revenue during the next 12 months. 
+3. Financial Instruments 
+Restricted cash, cash equivalents, and short-term investments are recorded at fair value. Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. To increase the comparability of fair value measures, the following hierarchy prioritizes the inputs to valuation methodologies used to measure fair value: 
+•Level 1—Valuations based on quoted prices in active markets for identical assets or liabilities. 
+•Level 2—Valuations based on quoted prices for similar assets and liabilities in active markets or inputs that are observable for the assets or liabilities, either directly or indirectly through market corroboration. 
+•Level 3—Valuations based on unobservable inputs reflecting our own assumptions used to measure assets and liabilities at fair value. These valuations require significant judgment. 
+The following table summarizes, by major security type, our restricted cash, cash equivalents, and short-term investments that are measured at fair value on a recurring basis and are categorized using the fair value hierarchy as of December 31, 2022 (in thousands): 
+Amortized Cost		Unrealized Gains		Unrealized Losses		Fair Value 
+Level 1:							 
+Restricted cash and cash equivalents:							 
+Restricted cash	$	20,604 			$	— 			$	— 			$	20,604 	 
+Money market funds	373,619 			— 			— 			373,619 	 
+Time deposits	412,125 			— 			— 			412,125 	 
+Total restricted cash and cash equivalents	$	806,348 			$	— 			$	— 			$	806,348 	 
+Short-term investments:							 
+Short-term deposits	$	101,711 			$	— 			$	— 			$	101,711 	 
+Total short-term investments	$	101,711 			$	— 			$	— 			$	101,711 	 
+  
+81 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Cash equivalents and short-term investments consisted of the following as of December 31, 2021 (in thousands): 
+Amortized Cost		Unrealized Gains		Unrealized Losses		Fair Value 
+Level 1:							 
+Restricted cash and cash equivalents:							 
+Restricted cash	$	10,823 			$	— 			$	— 			$	10,823 	 
+Money market funds	73,138 			— 			— 			73,138 	 
+Total restricted cash and cash equivalents	$	83,961 			$	— 			$	— 			$	83,961 	 
+Level 2:							 
+Short-term investments:							 
+Commercial paper	$	59,792 			$	— 			$	— 			$	59,792 	 
+Asset-backed securities	40,965 			— 			(23)			40,942 	 
+Corporate bonds	237,735 			20 			(353)			237,402 	 
+U.S. treasury securities	272,678 			1 			(379)			272,300 	 
+Supranational bonds	71,121 			1 			(235)			70,887 	 
+Total short-term investments	$	682,291 			$	22 			$	(990)			$	681,323 	 
+  
+We did not recognize any credit losses related to our available-for-sale debt securities during the years ended December 31, 2022 and 2021. 
+There were no material realized or unrealized gains or losses, either individually or in the aggregate, during the years ended December 31, 2022 and 2021. During the year ended December 31, 2022, we sold the entirety of our available-for-sale debt securities portfolio. 
+Nonrecurring Fair Value Measurements 
+We hold equity investments in certain unconsolidated entities without a readily determinable fair value. These strategic investments represent less than a 20% ownership interest in each of the entities, and we do not have significant influence over or control of the entities. At December 31, 2022, equity investments totaled $31.1 million. Approximately $15.6 million of these equity investments were measured at cost. As part of the merger with ironSource, $15.5 million of these equity investments were measured at fair value using the market approach. 
+82 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+4. Investment in Unity China 
+In August 2022, we formed a company in China ("Unity China") to perform research and development activities and to facilitate commercialization in the Greater China region. Upon formation, we agreed to sell to third-party investors an ownership interest of approximately 20.5% in Unity China for cash consideration of $196.5 million. Under the agreement and pursuant to certain conditions that include successfully completing an initial public offering of Unity China at a valuation greater than $3.6 billion, the investors have the option to require us to repurchase their interest at a redemption value based on the greater of Unity China's then current equity fair value or a guaranteed floor value in the aggregate amount of $278.0 million. The redeemable noncontrolling interests are initially measured at its issuance date fair value and then adjusted for its proportionate net income or loss and accreted to its estimated redemption value through the applicable redemption date, which is August 2027. We valued the combination of the investors' equity interest in Unity China and their redemption right at approximately $217.9 million. The investors' equity interest was valued using a discounted cash flow analysis and market approach. The redemption right was valued using the Black-Scholes option-pricing model adjusted for probabilities of successfully completing an initial public offering. The difference between the fair value of the redeemable noncontrolling interests and cash consideration received was recognized as a customer incentive, as the equity interest holders are also customers. The customer incentive will be amortized against revenue over the five-year term of the redemption right. 
+Subsequent and contingent to the initial investment from third-party investors, a management investor contributed $14.4 million for an ownership interest of 1.5% with no redemption rights. 
+The results of Unity China are included in our consolidated financial statements and were not material for the year ended December 31, 2022, and the redeemable noncontrolling interests are recorded as temporary equity on our consolidated balance sheet. 
+The following table presents the changes in redeemable noncontrolling interests (in thousands): 
+December 31, 2022 
+Balance at beginning of period	$	— 	 
+Initial fair value measurement of investors' equity interest and redemption right	217,900 	 
+Net loss attributable to redeemable noncontrolling interests	(1,207)	 
+Adjustments for redeemable noncontrolling interests	2,870 	 
+Balance at end of period	$	219,563 	 
+  
+5. Acquisitions 
+The revenue and earnings of the acquired businesses have been included in our results from the respective dates of the acquisitions and, other than the ironSource Merger, were not material to our consolidated financial statements in the year of acquisition. 
+The total purchase price allocated to the net assets acquired is assigned based on the fair values as of the date of acquisition. The fair value assigned to identifiable intangible assets acquired was determined using the income approach and the cost approach. The identifiable intangible assets are subject to amortization on a straight-line basis over their estimated useful lives, as this best approximates the benefit period related to these assets. 
+The excess of the purchase price over the identified tangible and intangible assets, less liabilities assumed, is recorded as goodwill. Goodwill is not subject to amortization and it typically is not deductible for U.S. income tax purposes. 
+For 2022, the fair values of assets acquired and liabilities assumed, including current income taxes payable and deferred taxes, may change over the measurement period as additional information is received and certain tax returns are finalized. Accordingly, the provisional measurements of fair value of the current income taxes payable and deferred taxes are subject to change. We expect to finalize the valuation as soon as practicable, but not later than one year from the respective acquisition dates. 
+83 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+2022 Acquisitions 
+ironSource Ltd. 
+On November 7, 2022, we completed the acquisition of ironSource, a leading business platform for the app economy. The purchase consideration was payable through the issuance of 112,547,375 shares of our common stock valued at approximately $2.8 billion, and assumed 17,326,341 equity awards valued at approximately $126.7 million for services rendered through the acquisition date. Total purchase consideration transferred was approximately $2.9 billion. We recorded $33.0 million in transaction costs associated with the acquisition for the year ended December 31, 2022. These costs were recorded within general and administrative expenses. 
+The revenue and earnings of the acquired business have been included in our results since the acquisition date.The revenue and income related to ironSource were $120.3 million and $5.4 million, respectively, for the year ended December 31, 2022.The following table summarizes the consideration paid for ironSource and the estimated fair values of the assets acquired at the acquisition date (in thousands): 
+Consideration:	 
+Common stock issued	$	2,788,924 	 
+Assumed equity awards	126,700 	 
+Fair value of total consideration transferred	$	2,915,624 	 
+Recognized amounts of identifiable assets acquired and liabilities assumed:	 
+ Cash and cash equivalents	$	138,216 	 
+ Accounts receivable	292,670 	 
+ Prepaid expenses and other	44,457 	 
+ Property, plant, and equipment	7,063 	 
+ Intangible assets, net	1,270,000 	 
+ Short term investments	103,831 	 
+ Other assets	66,951 	 
+ Accounts payable	(25,681)	 
+ Accrued expenses and other	(99,419)	 
+ Publisher payables	(258,227)	 
+ Deferred revenue	(1,325)	 
+ Other long-term liabilities	(165,996)	 
+Total identifiable net assets assumed	1,372,540 	 
+Goodwill (1) 
+1,543,084 	 
+Total	$	2,915,624 	 
+  
+(1)    Goodwill reflects the expected future benefits of certain synergies and acquired assembled workforce, which does not qualify for separate recognition as an identifiable intangible asset. The goodwill balance is not subject to amortization and is not deductible for U.S. income tax purposes. 
+84 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+MindKick, Inc. 
+On January 28, 2022, we completed the purchase of MindKick, Inc. ("MindKick") for a total purchase consideration of approximately $46.6 million. This consideration included a combination of approximately $26.7 million in cash and the issuance of 169,321 shares of our common stock valued at approximately $16.1 million. An additional 42,330 shares of our common stock subject to a service-based vesting condition were granted to certain employees of Mindkick; these shares of common stock are accounted for outside of the business combination and will be recognized as post-combination expense. MindKick provides 2D game creation tools and game templates with the goal of providing consumers the ability to create, play, and share their own 2D games on mobile. Prior to the completion of the acquisition, we held a minority investment in MindKick that we accounted for using the equity method of accounting. In circumstances where a business combination is achieved in stages, previously-held equity interests are remeasured at fair value. The remeasured fair value assigned to the previously-held equity interest in MindKick of $3.7 million approximates cost, and therefore, no gain or loss was recognized. The identifiable assets and liabilities acquired are primarily $37.0 million in goodwill, $7.5 million in intangible assets, $2.8 million in cash, and ($0.7 million) in other net assets and liabilities. The transaction costs associated with the acquisition are not material. The revenue and earnings of the acquired business have been included in our results since the acquisition date and are not material to our consolidated results. 
+Unaudited Pro Forma Financial Information 
+The following unaudited pro forma financial information presents the consolidated results of ironSource for the years ended December 31, 2022 and 2021, giving effect to the acquisition as if it had occurred on January 1, 2021, and combines the historical financial results of ironSource. The unaudited pro forma financial information includes adjustments to give effect to pro forma events that are directly attributable to the acquisition. The pro forma financial information includes adjustments to amortization for intangible assets acquired and acquisition costs. The unaudited pro forma financial information is presented for illustrative purposes only and is not necessarily indicative of the results of operations of future periods. The unaudited pro forma financial information does not give effect to the potential impact of current financial conditions, future revenues, regulatory matters, or any anticipated synergies, operating efficiencies, or cost savings that may be associated with the acquisition. Consequently, actual results will differ from the unaudited pro forma financial information presented below (in thousands): 
+Year Ended December 31, 
+2022		2021 
+Unaudited pro forma financial information			 
+Pro forma revenue	$	2,016,557 			$	1,660,432 	 
+Pro forma net loss	$	(983,563)			$	(804,318)	 
+  
+Pro forma results of operations for the other acquisitions have not been presented because they are not material to the consolidated statements of operations and comprehensive loss, either individually or in the aggregate. 
+2021 Acquisitions 
+During the year ended December 31, 2021, we completed the acquisitions of certain companies for a total purchase consideration of approximately $2.1 billion payable in cash and stock. The purchase consideration was primarily allocated to goodwill of approximately $1.3 billion and intangible assets of approximately $790.2 million. These acquisitions were strategic in nature as they enhanced our product offerings. The revenue and earnings of the acquired businesses have been included in our results since the acquisition date. 
+Pro forma results of operations for these acquisitions have not been presented because they are not material to the consolidated statements of operations. 
+85 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+6. Goodwill and Intangible Assets 
+Goodwill 
+Goodwill represents the excess of purchase price and related costs over the value assigned to net tangible and identifiable intangible assets acquired in business combinations. 
+The following table presents the changes in the carrying amount of goodwill for the years ended December 31, 2022 and 2021 (in thousands): 
+Balance as of December 31, 2020	$	286,251 	 
+Goodwill acquired	1,334,074 	 
+Measurement period adjustment	(198)	 
+Balance as of December 31, 2021	1,620,127 	 
+Goodwill acquired	1,579,936 	 
+Measurement period adjustment	892 	 
+Balance as of December 31, 2022	$	3,200,955 	 
+  
+Intangible Assets, Net 
+The following tables present details of our intangible assets, excluding goodwill (in thousands, except for weighted-average useful life): 
+As of December 31, 2022 
+Weighted-Average 
+Useful Life (1) 
+(In Years) 
+Gross 
+Carrying 
+Amount		Accumulated 
+Amortization		Net 
+Carrying 
+Amount 
+Developed technology	7.3		$	1,239,431 			$	(137,782)			$	1,101,649 	 
+Customer relationships	3.9		621,326 			(53,243)			568,083 	 
+Trademark	4.5		110,567 			(17,273)			93,294 	 
+Contractual relationship	8.0		200,000 			(40,792)			159,208 	 
+Total intangible assets			$	2,171,324 			$	(249,090)			$	1,922,234 	 
+As of December 31, 2021 
+Weighted-Average 
+Useful Life (1) 
+(In Years) 
+Gross 
+Carrying 
+Amount		Accumulated 
+Amortization		Net 
+Carrying 
+Amount 
+Developed technology	8.8		$	580,204 			$	(52,811)			$	527,393 	 
+Customer relationships	2.9		50,171 			(16,980)			33,191 	 
+Trademark	5.7		60,557 			(3,937)			56,620 	 
+Contractual relationship	8.0		200,000 			(2,818)			197,182 	 
+Total intangible assets			$	890,932 			$	(76,546)			$	814,386 	 
+  
+(1)    Based on weighted-average useful life established as of the acquisition date. 
+The following table presents the amortization of finite-lived intangible assets included on our consolidated statements of operations (in thousands): 
+Year Ended December 31, 
+2022		2021		2020 
+Amortization expense	$	172,551 			$	33,483 			$	17,755 	 
+  
+86 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+As of December 31, 2022, the estimated future amortization of finite-lived intangible assets for each of the next five years and thereafter was as follows (in thousands): 
+2023	$	394,582 	 
+2024	404,639 	 
+2025	360,835 	 
+2026	307,580 	 
+2027	454,598 	 
+Thereafter	— 	 
+Total	$	1,922,234 	 
+  
+7. Balance Sheet Components 
+The following tables provide details of selected balance sheet items (in thousands): 
+As of 
+December 31, 
+2022		December 31, 
+2021 
+Property and equipment, net:			 
+Gross property and equipment			 
+Leasehold improvements	$	99,868 			$	84,006 	 
+Computer and other hardware	96,829 			74,953 	 
+Furniture	30,046 			27,916 	 
+Internally developed and purchased software	8,264 			4,957 	 
+Vehicles	38 			— 	 
+Construction in progress	10,442 			12,075 	 
+Total gross property and equipment	245,487 			203,907 	 
+Accumulated depreciation and amortization (1) 
+(123,624)			(97,801)	 
+Property and equipment, net	$	121,863 			$	106,106 	 
+  
+(1)    The following table presents the depreciation and amortization of property and equipment included on our consolidated statements of operations (in thousands): 
+Year Ended December 31, 
+2022		2021		2020 
+Depreciation and amortization expense	$	39,025 			$	31,084 			$	25,219 	 
+  
+87 
+ 
+Table of Contents 
+Long-lived Assets, Net, by Geographic Area 
+The following table presents our long-lived assets, net, disaggregated by geography, which consists of our property and equipment, net, but excludes internally developed software and purchased software (in thousands): 
+As of 
+December 31, 
+2022		December 31, 
+2021 
+United States	$	32,172 			$	36,718 	 
+Canada	33,639 			31,498 	 
+United Kingdom	12,944 			15,011 	 
+EMEA, excluding United Kingdom (1) 
+22,336 			12,587 	 
+Other (1) 
+12,243 			8,297 	 
+Total long-lived assets, net	$	113,334 			$	104,111 	 
+  
+(1)    No individual country, other than those disclosed above, exceeded 10% of our total long-lived assets, net, for any period presented. 
+As of 
+December 31, 
+2022		December 31, 
+2021 
+Accrued expenses and other:			 
+Accrued expenses	$	107,075 			$	85,281 	 
+Accrued compensation	121,654 			83,936 	 
+Income and other taxes payable	97,610 			64,759 	 
+Accrued expenses and other	$	326,339 			$	233,976 	 
+  
+8. Leases 
+We have operating leases for offices which have remaining lease terms of up to nine years, some of which include options to extend the lease with renewal terms from one to five years. Some leases include an option to terminate the lease for up to five years from the lease commencement date. 
+Components of lease expense were as follows (in thousands): 
+Year Ended 
+December 31, 2022		December 31, 
+2021 
+Operating lease expense	$	31,707 			$	29,153 	 
+Short-term lease expense	1,317 			728 	 
+Variable lease expense	5,528 			5,048 	 
+Sublease income	(221)			(325)	 
+Total lease expense	$	38,331 			$	34,604 	 
+  
+88 
+ 
+Table of Contents 
+Supplemental balance sheet information related to leases was as follows (in thousands, except weighted-average figures): 
+As of 
+Classification		December 31, 2022		December 31, 2021 
+Operating lease assets	Other assets		$	120,535 			$	98,393 	 
+Current operating lease liabilities	Accrued expenses and other		$	34,469 			$	23,729 	 
+Long-term operating lease liabilities	Other long-term liabilities		107,776 			92,539 	 
+Total operating lease liabilities			$	142,245 			$	116,268 	 
+  
+As of December 31, 2022, our operating leases had a weighted-average remaining lease term of 5.0 years and a weighted-average discount rate of 4.0%. As of December 31, 2021, our operating leases had a weighted-average remaining lease term of 5.9 years and a weighted-average discount rate of 4.3%. 
+As of December 31, 2022, our lease liabilities were as follows (in thousands): 
+Operating Leases (1) 
+Gross lease liabilities	$	157,097 	 
+Less: imputed interest	(14,852)	 
+Present value of lease liabilities	$	142,245 	 
+  
+(1)    Excludes future minimum payments for leases which have not yet commenced as of December 31, 2022. 
+As of December 31, 2022, we had entered into leases that have not yet commenced with future minimum lease payments of $40.1 million that are not yet reflected on our consolidated balance sheets. These operating leases will commence in 2023 with lease terms of approximately five to ten years. 
+9. Borrowings 
+Convertible Notes 
+2027 Notes 
+In November 2022, we issued the 2027 Notes. The closing of the issuance and sale of the 2027 Notes (the "PIPE") occurred promptly following the closing of the ironSource Merger, pursuant to an indenture dated November 8, 2022 (the “Indenture”). Proceeds from the issuance of the 2027 Notes were approximately $1.0 billion, net of debt issuance costs. The debt issuance costs are amortized to interest expense using the straight-line method, which approximates the effective interest method. 
+The 2027 Notes are general unsecured obligations which bear regular interest of 2.0%. We may elect for additional interest to accrue on the 2027 Notes as the sole remedy for any failure by us to comply with certain reporting requirements under the Indenture. Holders of the 2027 Notes may receive additional interest under specified circumstances as outlined in the Indenture. Additional interest, if any, will be payable in the same manner as the regular interest, which is semiannually in arrears on May 15 and November 15 of each year, beginning on May 15, 2023. The 2027 Notes will mature on November 15, 2027 unless earlier converted, redeemed, or repurchased. 
+The 2027 Notes are convertible into cash, shares of our common stock, or a combination of cash and shares of our common stock, at our election, at an initial conversion rate of 20.4526 shares of common stock per $1,000 principal amount of 2027 Notes, which is equivalent to an initial conversion price of approximately $48.89 per share of our common stock. The conversion rate is subject to customary adjustments for certain events as described in the Indenture governing the 2027 Notes. 
+89 
+ 
+Table of Contents 
+In connection with a make-whole fundamental change, as defined in the Indenture, or in connection with certain corporate events that occur prior to the maturity date or a notice of redemption, in each case as described in the Indentures, we will increase the conversion rate for a holder of the 2027 Notes who elects to convert its 2027 Notes in connection with such a corporate event or during the related redemption period in certain circumstances. Additionally, in the event of a fundamental change, subject to certain limitations described in the Indenture, holders of the 2027 Notes may require us to repurchase all or a portion of the 2027 Notes at a price equal to 100% of the principal amount of 2027 Notes to be repurchased, plus any accrued and unpaid additional interest, if any, to, but excluding, the fundamental change repurchase date. 
+We accounted for the issuance of the 2027 Notes as a single liability measured at its amortized cost, as no other embedded features require bifurcation and recognition as derivatives. 
+The table below summarizes the principal and unamortized debt issuance cost for the 2027 Notes (in thousands): 
+As of 
+December 31, 2022 
+Convertible note:	 
+Principal	$	1,000,000 	 
+Unamortized debt issuance cost	(368)	 
+Net carrying amount	$	999,632 	 
+  
+Interest expense on the 2027 Notes related to regular interest was $2.9 million and interest expense related to the amortization of debt issuance costs was immaterial for the year ended December 31, 2022. 
+As of December 31, 2022, no holders of the 2027 Note have exercised the conversion rights, and the if-converted value of the 2027 Notes did not exceed the principal amount. 
+2026 Notes 
+In November 2021, we issued an aggregate of $1.7 billion principal amount of 0% Convertible Senior Notes due 2026 (the "2026 Notes"). Proceeds from the issuance of the 2026 Notes were $1.7 billion, net of debt issuance costs and cash used to purchase the capped call transactions ("Capped Call Transactions") discussed below. The debt issuance costs are amortized to interest expense using the straight-line method, which approximates the effective interest method. 
+The 2026 Notes are general unsecured obligations which do not bear regular interest and for which the principal balance will not accrete. The 2026 Notes will mature on November 15, 2026 unless earlier converted, redeemed, or repurchased. 
+The 2026 Notes are convertible into cash, shares of our common stock, or a combination of cash and shares of our common stock, at our election, at an initial conversion rate of 3.2392 shares of common stock per $1,000 principal amount of 2026 Notes, which is equivalent to an initial conversion price of approximately $308.72 per share of our common stock. The conversion rate is subject to customary adjustments for certain events as described in the indenture governing the 2026 Notes. 
+90 
+ 
+Table of Contents 
+The table below summarizes the principal and unamortized debt issuance cost for the 2026 Notes (in thousands): 
+As of 
+December 31, 2022 
+Convertible note:	 
+Principal	$	1,725,000 	 
+Unamortized debt issuance cost	(17,461)	 
+Net carrying amount	$	1,707,539 	 
+  
+Interest expense related to the amortization of debt issuance costs was $4.5 million for the year ended December 31, 2022 and $0.5 million for the year ended December 31, 2021. 
+Capped Call Transactions 
+In connection with the pricing of the 2026 Notes, we entered into the Capped Call Transactions with certain counterparties at a net cost of $48.1 million with call options totaling approximately 5.6 million of our common shares, and expiration dates beginning on September 18, 2026 and ending on November 12, 2026. The strike price of the Capped Call Transactions is $308.72, and the cap price is initially $343.02 per share of our common stock and is subject to certain adjustments under the terms of the Capped Call Transactions. The Capped Call Transactions are freestanding and are considered separately exercisable from the 2026 Notes. 
+The Capped Call Transactions are intended to reduce potential dilution to our common stock upon any conversion of the 2026 Notes and/or offset any cash payments we are required to make in excess of the principal amount of converted 2026 Notes, as the case may be, with such reduction and/or offset subject to a cap based on the cap price described above. The cost of the Capped Call Transactions was recorded as a reduction of our additional paid-in capital on our consolidated balance sheets. The Capped Call Transactions will not be remeasured as long as they continue to meet the conditions for equity classification. As of December 31, 2022, the Capped Call Transactions were not in the money and met the conditions for equity classification. 
+10. Commitments and Contingencies 
+The following table summarizes our non-cancelable contractual commitments as of December 31, 2022 (in thousands): 
+Total		2023		2024-2025		2026-2027		Thereafter 
+Operating leases	$	157,097 			$	39,272 			$	63,226 			$	32,806 			$	21,793 	 
+Purchase commitments (2) 
+947,953 			234,317 			494,759 			218,877 			— 	 
+Convertible notes (3) 
+2,725,000 			— 			— 			2,725,000 			— 	 
+Total	$	3,830,050 			$	273,589 			$	557,985 			$	2,976,683 			$	21,793 	 
+  
+(1)    The operating lease obligation consists of obligations for real estate 
+(2)    The substantial majority of our purchase commitments are related to agreements with our data center hosting providers. 
+(3)    Convertible notes due 2026 and 2027. See Note 9, "Borrowings," of the Notes to Consolidated Financial Statements in Part II, Item 8 of this Annual Report on Form 10-K for further discussion. 
+We expect to meet our remaining commitment. 
+91 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Legal Matters 
+In the normal course of business, we are subject to various legal matters. We accrue a liability when management believes that it is both probable that a liability has been incurred and that the amount of loss can be reasonably estimated. We also disclose material contingencies when we believe a loss is not probable but reasonably possible. Legal costs related to such potential losses are expensed as incurred. In addition, recoveries are shown as a reduction in legal costs in the period in which they are realized. With respect to our outstanding matters, based on our current knowledge, we believe that the resolution of such matters will not, either individually or in aggregate, have a material adverse effect on our business or our consolidated financial statements. However, litigation is inherently uncertain, and the outcome of these matters cannot be predicted with certainty. Accordingly, cash flows or results of operations could be materially affected in any particular period by the resolution of one or more of these matters. 
+We are currently subject to a putative class action complaint and related derivative claims, which we believe is without merit and intend to vigorously defend against. See Part I, Item 3. "Legal Proceedings" for additional information regarding the class action complaint. 
+Letters of Credit 
+We had $20.6 million and $10.8 million of secured letters of credit outstanding as of December 31, 2022 and 2021, respectively. These primarily relate to our office space leases and are fully collateralized by certificates of deposit which we record in restricted cash on our consolidated balance sheets. 
+11. Stockholders’ Equity and Employee Compensation Plans 
+Stockholders' Equity 
+Employee Compensation Plans 
+Stock Award Plans 
+Our stock compensation plans allow us to grant or assume through acquisition stock options and RSUs, including PVUs, to employees and non-employee directors. 
+As of December 31, 2022, we had reserved a total of 99.3 million shares of common stock under our collective compensation plans, of which 25.5 million were available for future grant. 
+Employee Stock Purchase Plan 
+We offer an ESPP that permits employees to purchase shares of our common stock through payroll deductions of up to 15% of their earnings. Unless otherwise determined by the administrator, the purchase price of the shares will be 85% of the lower of the fair market value of our common stock on (i) the first day of an offering or (ii) on the date of purchase. No participant may purchase more than 1,000 shares of common stock in any one offering period. Participants may end their participation at any time during an offering and will be paid their accrued contributions that have not yet been used to purchase shares. Participation ends automatically upon termination of employment with us. 
+The maximum number of shares of our common stock that may be issued under our 2020 ESPP is 10.9 million shares, of which 10.3 million were available for issuance as of December 31, 2022. 
+92 
+ 
+Table of Contents 
+Share Repurchase Program 
+In July 2022, our board of directors approved our Share Repurchase Program, which authorized the repurchase of up to $2.5 billion of shares of our common stock through November 2024. Under the Share Repurchase Program, share repurchases may be made by us from time to time in privately negotiated transactions or in open market transactions. The Share Repurchase Program does not require us to purchase a minimum number of shares, and may be suspended, modified, or discontinued at any time without prior notice. In 2022, we repurchased 42.7 million shares of common stock under our Share Repurchase Program in open market transactions for an aggregate purchase price of $1.5 billion. As of December 31, 2022, $1.0 billion remained available for future share repurchases under the Share Repurchase Program. 
+Employee 401(k) Plan 
+We have a qualified defined contribution plan under Section 401(k) of the Internal Revenue Code. U.S. full-time employees qualify for participation in the plan. Contribution to the plan is under our discretion. For the years ended December 31, 2022, 2021, and 2020, we contributed and expensed $10.8 million, $9.1 million, and $6.8 million, respectively, to the plan. 
+Defined Contribution Pension Plan 
+For other operations outside the United States, we have a defined contribution pension plan. We contribute up to 10% of total salary into the plan annually when employees contribute to the plan. For the years ended December 31, 2022, 2021, and 2020, we contributed and expensed $24.7 million, $18.3 million, and $10.6 million, respectively, to the plan. 
+12. Stock‑Based Compensation 
+We recorded stock-based compensation expense related to grants to employees on our consolidated statements of operations as follows (in thousands): 
+Year Ended December 31, 
+2022		2021		2020 
+Cost of revenue	$	57,309 			$	24,811 			$	10,626 	 
+Research and development	283,312 			165,604 			66,038 	 
+Sales and marketing	118,173 			70,663 			23,769 	 
+General and administrative	91,271 			86,081 			34,196 	 
+Total stock-based compensation expense	$	550,065 			$	347,159 			$	134,629 	 
+  
+Unrecognized compensation expense is as follows (in thousands, except for weighted-average remaining vesting period): 
+December 31, 2022 
+Unrecognized Compensation Expense		Weighted-Average Remaining Vesting Period (In Years) 
+Outstanding stock options	$	124,265 			1.93 
+Unvested RSUs and PVUs	$	1,671,647 			3.07 
+2020 ESPP	$	1,542 			0.17 
+  
+In future periods, stock-based compensation expense may increase as we issue additional equity-based awards to continue to attract and retain employees. 
+93 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Stock Options 
+A summary of our stock option activity is as follows: 
+Options Outstanding (1) 
+Stock 
+Options 
+Outstanding		Weighted-Average 
+Exercise 
+Price		Weighted-Average 
+Remaining 
+Contractual 
+Term 
+(In Years) 
+Balance as of December 31, 2020	40,457,875 			$	8.03 			6.87 
+Granted	1,325,352 			$	107.10 			 
+Exercised	(11,650,963)			$	5.72 			 
+Forfeited, cancelled, or expired	(906,223)			$	13.23 			 
+Balance as of December 31, 2021	29,226,041 			$	13.28 			6.26 
+Granted	11,835,061 			$	26.68 			 
+Exercised	(4,512,850)			$	6.69 			 
+Forfeited, cancelled, or expired	(829,449)			$	35.06 			 
+Balance as of December 31, 2022	35,718,803 			$	18.05 			5.60 
+Exercisable as of December 31, 2022	26,628,522 			$	11.25 			4.87 
+  
+(1)    Includes assumed equity awards from the ironSource Merger. 
+A summary of intrinsic and fair values of our stock options is as follows (in thousands, except fair value amounts): 
+Year Ended 
+December 31, 2022		December 31, 2021		December 31, 2020 
+Aggregate pretax intrinsic value of stock options exercised (1) 
+$	274,956 			$	1,394,721 			$	441,000 	 
+Weighted-average grant-date fair value of stock options granted	$	7.54 			$	39.05 			$	10.66 	 
+Fair value of stock options vested 
+$	51,962 			$	48,918 			$	44,100 	 
+  
+(1)    The intrinsic value is the difference between the estimated fair value of our common stock on the date of exercise and the exercise price for in-the-money options. 
+The calculated grant-date fair value of stock options granted was estimated using the Black-Scholes option-pricing model with the following assumptions: 
+Year Ended 
+December 31, 2022		December 31, 2021		December 31, 2020 
+Expected dividend yield	—		—		— 
+Risk-free interest rate	 
+1.7% - 3.8% 
+0.9% - 1.3% 
+0.4% - 0.6% 
+Expected volatility	 
+33.3% - 52.2% 
+32.9% - 36.2% 
+33.8% - 36.3% 
+Expected term (in years)	6.25		6.25		6.00 
+Fair value of underlying common stock	 
+$36.17 - $89.01 
+$100.60 - $152.34 
+$22.00 - $152.00 
+  
+94 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Restricted Stock Units 
+A summary of our RSU, including PVU, activity is as follows: 
+Unvested Restricted Stock Units (1) 
+Number of 
+Shares		Weighted-Average 
+Grant-Date 
+Fair Value 
+Unvested as of December 31, 2020	9,561,791 			$	53.79 	 
+Granted	8,060,505 			$	112.11 	 
+Vested	(3,131,986)			$	58.23 	 
+Forfeited	(793,474)			$	73.36 	 
+Unvested as of December 31, 2021	13,696,836 			$	85.96 	 
+Granted	33,548,745 			$	39.12 	 
+Vested	(6,549,420)			$	70.54 	 
+Forfeited	(2,590,699)			$	71.35 	 
+Unvested as of December 31, 2022	38,105,462 			$	48.37 	 
+  
+(1)    Includes assumed equity awards from the ironSource Merger. 
+The total fair value of RSUs vested as of the vesting dates during the years ended December 31, 2022, 2021, and 2020 was $322.5 million, $442.1 million, and $85.9 million, respectively. No PVUs have vested during the year ended December 31, 2022. 
+Price-Vested Units 
+In October 2022, our board of directors granted to certain of our executive officers a total of 989,880 PVUs for which vesting is subject to the fulfillment of both a service period that extends up to four years and the achievement of a stock price hurdle during the relevant performance period that extends up to seven years. The fair value of each PVU award is estimated using a Monte Carlo stimulation that uses assumptions determined on the date of grant. 
+The following table summarizes the weighted-average assumptions relating to our PVUs: 
+Year Ended December 31, 
+2022 
+Share price on grant date	$27.88 
+Risk-free interest rate	4.01% 
+Expected volatility	50% 
+Expected dividend yield	—% 
+  
+Employee Stock Purchase Plan 
+The fair value of shares offered under our ESPP was determined using the Black-Scholes option pricing model with the following weighted-average assumptions: 
+Year Ended December 31, 
+2022		2021 
+Expected dividend yield	—		— 
+Risk-free interest rate	 
+0.6% - 3.3% 
+0.1% 
+Expected volatility	 
+35.5% - 40.0% 
+27.2% 
+Expected term (in years)	0.50		0.50 
+Estimated fair value	 
+$10.51 - $27.42 
+$28.64 
+  
+95 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Additional information related to the ESPP is provided below (in thousands, except per share amounts): 
+Year Ended December 31, 
+2022 
+Share issued under the ESPP	607,009 
+Weighted-average price per share issued	$54.87 
+  
+No shares were issued under the ESPP during the year ended December 31, 2021. 
+13. Income Taxes 
+Loss before provision for income taxes consisted of the following for the years ended December 31, 2022, 2021, and 2020 (in thousands): 
+Year Ended December 31, 
+2022		2021		2020 
+United States	$	(483,914)			$	(318,907)			$	(185,580)	 
+Foreign	(398,511)			(212,323)			(94,637)	 
+Total	$	(882,425)			$	(531,230)			$	(280,217)	 
+  
+The components of the provision for income taxes consists of the following for the years ended December 31, 2022, 2021, and 2020 (in thousands): 
+Year Ended December 31, 
+2022		2021		2020 
+Current:					 
+Federal	$	12,258 			$	(111)			$	183 	 
+State	1,605 			219 			155 	 
+Foreign	26,255 			13,594 			4,412 	 
+Total current tax expense (benefit)	40,118 			13,702 			4,750 	 
+Deferred:					 
+Federal	4,347 			(4,874)			— 	 
+State	(3,167)			(851)			(156)	 
+Foreign	(4,235)			(6,600)			(2,503)	 
+Total deferred tax expense (benefit)	(3,055)			(12,325)			(2,659)	 
+Total tax provision	$	37,063 			$	1,377 			$	2,091 	 
+  
+96 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Reconciliations of the income tax provision at the U.S. federal statutory tax rate to the provision for income taxes are as follows (in thousands): 
+Year Ended December 31, 
+2022		2021		2020 
+U.S. federal statutory tax rate	$	(185,399)			$	(111,558)			$	(58,846)	 
+Changes in income taxes resulting from:					 
+State tax expense, net of federal benefit	(4,466)			(36,984)			(12,698)	 
+Foreign income taxed at different rates	(94,940)			(30,114)			(29,958)	 
+Federal research and development credits	(15,929)			(31,088)			(12,338)	 
+Stock-based compensation	89,515 			(91,623)			(22,624)	 
+Tax effects of restructuring	169,886 			— 			— 	 
+Base-erosion and anti-abuse tax	10,353 			— 			— 	 
+Change in valuation allowance	63,800 			301,330 			139,219 	 
+Other	4,243 			1,414 			(664)	 
+Total tax provision	$	37,063 			$	1,377 			$	2,091 	 
+  
+Our income tax provision for the year ended December 31, 2022 was primarily driven by the earnings of our foreign subsidiaries, which are taxed at rates that differ from the U.S. statutory rate, losses that cannot be benefited due to the valuation allowance against the net deferred tax assets of our United States, Denmark, U.K., and China entities, base-erosion and anti-abuse tax ("BEAT") mainly arising as a result of the U.S. mandatory research and development capitalization rules. Following our acquisition of ironSource, the Company undertook certain tax restructuring efforts as part of the integration of the acquired business. As a result of the restructuring, we recognized $192.2 million of US federal and state deferred tax liabilities, which reduce our need for a valuation allowance in the U.S., except for timing differences that resulted in $11.6 million of income tax expense. 
+Our income tax provision for the year ended December 31, 2021 was primarily driven by the earnings of our foreign subsidiaries, which are taxed at rates that differ from the U.S. statutory rate, losses that cannot be benefited due to the valuation allowance against the net deferred tax assets of our United States, Denmark, and U.K. entities, gain recognized from an intercompany transaction with our subsidiary in Israel, and an income tax benefit recognized as a result of a partial release of our valuation allowance against our deferred tax assets in connection with business combinations. 
+97 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+The types of temporary differences that give rise to significant portions of our deferred tax assets and liabilities as of December 31, 2022 and 2021 are set forth below (in thousands): 
+As of December 31, 
+2022		 
+2021 (1) 
+Deferred tax assets:			 
+Net operating losses	$	437,382 			$	332,622 	 
+Tax credits	110,762 			81,847 	 
+Stock-based compensation	59,443 			29,647 	 
+Capitalized R&D expenditures	255,123 			94,686 	 
+Operating lease liabilities	23,287 			24,137 	 
+Other	27,702 			29,785 	 
+Gross deferred tax assets	913,699 			592,724 	 
+Valuation allowance	(632,580)			(568,124)	 
+Total deferred tax assets	281,119 			24,600 	 
+Deferred tax liabilities:			 
+Intangible Asset	(404,491)			(4,469)	 
+Operating lease ROU assets	(16,995)			(20,467)	 
+Total deferred tax liabilities	(421,486)			(24,936)	 
+Net deferred tax assets	$	(140,367)			$	(336)	 
+  
+(1)    Certain prior year amounts have been reclassified to conform to current year presentation. 
+In the tax year ended December 31, 2022, we capitalized certain research and development costs incurred by our U.S. and foreign subsidiaries, which resulted in a deferred tax asset of $255.1 million. This deferred tax asset associated with capitalized research and development costs is offset by a valuation allowance and future taxable temporary differences. 
+The realization of deferred tax assets is dependent upon the generation of sufficient taxable income of the appropriate character in future periods. We regularly assess the ability to realize our deferred tax assets and establish a valuation allowance if it is more-likely-than-not that some portion of the deferred tax assets will not be realized. We weigh all available positive and negative evidence, including our earnings history and results of recent operations, scheduled reversals of deferred tax liabilities, projected future taxable income, and tax planning strategies. Due to the weight of objectively verifiable negative evidence, including our history of losses, we believe that it is more likely than not that our U.S. federal, state, and certain foreign deferred tax assets will not be realized as of December 31, 2022 and 2021, and as such, we have maintained a full valuation allowance against such deferred tax assets. 
+In the event we determine that we will be able to realize all or part of our net deferred tax assets in the future, the valuation allowance against deferred tax assets will be reversed in the period in which we make such determination. The release of a valuation allowance against deferred tax assets may cause greater volatility in the effective tax rate in the periods in which the valuation allowance is released. The valuation allowance against our U.S. federal, state and foreign deferred tax assets increased by $64.5 million and $302.3 million in the years ended December 31, 2022 and 2021, respectively. The increase in the valuation allowance in the years ended December 31, 2022 and 2021 was primarily related to deferred tax assets for which insufficient positive evidence exists to support their realizability, including NOL carryforwards, capitalized research and development expenses, and credits for research and development. 
+98 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+Our NOL carryforwards for U.S. federal, state, and foreign purposes were $785.8 million, $415.0 million, and $1.1 billion, respectively, with most of our foreign NOL carryforward balances arising from Denmark and the U.K. jurisdictions. The NOL carryforwards, if not utilized, will begin to expire in 2032, 2024, and 2039, respectively. Our U.S. federal, state, and foreign research and development credit carryforwards were $90.0 million, $44.4 million and $10.4 million, respectively. The U.S. federal credit carryforwards, if not utilized, will begin to expire in 2032, while the California credit carryforwards have no expiration. The foreign credit carryforwards, if not utilized, will begin to expire in 2041. 
+Federal and state tax laws impose restrictions on the utilization of NOL and research and development credit carryforwards in the event of a change in ownership of our business as defined by the Internal Revenue Code, Sections 382 and 383. Under Section 382 and 383 of the Code, substantial changes in our ownership may limit the amount of NOL and research and development credit carryforwards that are available to offset taxable income. The annual limitation would not automatically result in the loss of NOL or research and development credit carryforwards but may limit the amount available in any given future period. 
+We are maintaining our reinvestment assertion with respect to foreign earnings for the period ended December 31, 2022, which is that all earnings are permanently reinvested for all jurisdictions. Based on our reinvestment assertion and losses from our foreign entities, we have not recorded a liability for the period ended December 31, 2022. 
+A reconciliation of the beginning and ending amount of total gross unrecognized tax benefits, excluding accrued net interest and penalties, is as follows (in thousands): 
+As of December 31, 
+2022		2021		 
+2020 (1) 
+Unrecognized tax benefits, beginning balance	$	110,315 			$	74,670 			$	37,392 	 
+Gross increases for tax positions taken in prior years	1,232 			1,729 			1,689 	 
+Gross decreases for tax positions taken in prior years	(613)			(2,507)			(694)	 
+Gross increases for tax positions taken in current year	55,931 			38,406 			38,829 	 
+Acquired tax positions	11,989 			— 			— 	 
+Reductions resulting from lapses of statues of limitations	(2,000)			(1,700)			(2,952)	 
+Foreign exchange gains and losses	(270)			(283)			406 	 
+Unrecognized tax benefits, ending balance	$	176,584 			$	110,315 			$	74,670 	 
+  
+(1)    Certain prior year amounts have been reclassified to conform to current year presentation. 
+As of December 31, 2022 and 2021, we had unrecognized tax benefits of $176.6 million and $110.3 million, respectively, of which $24.3 million and $11.9 million would affect the effective tax rate if recognized. We recognize interest and penalties related to our unrecognized tax benefits within our provision for income taxes. The amount of interest and penalties accrued as of December 31, 2022 and 2021 were $3.0 million and $2.5 million. 
+We are subject to taxation in the United States and various other state and foreign jurisdictions. The material jurisdictions in which we are subject to potential examination include the United States, Denmark, and Israel. Our 2012 and subsequent tax years remain open to examination by the Internal Revenue Service. Our 2018 and subsequent tax years remain open to examination in Israel and Denmark. 
+99 
+ 
+Table of Contents 
+Unity Software Inc. 
+  
+We believe that adequate amounts have been reserved in accordance with ASC 740 for any adjustments to the provision for income taxes or other tax items that may ultimately result from examinations. The timing of the resolution, settlement, and closure of any audits is highly uncertain, and it is reasonably possible that the balance of gross unrecognized tax benefits could significantly change in the next 12 months. Given the number of years remaining that are subject to examination, we are unable to estimate the full range of possible adjustments to the balance of gross unrecognized tax benefits. If the taxing authorities prevail in the assessment of additional tax due, the assessed tax, interest, and penalties, if any, could have a material adverse impact on our financial position, results of operations, or cash flows. 
+14. Net Loss per Share of Common Stock 
+Basic and diluted net loss per share is the same for all periods presented because the effects of potentially dilutive items were antidilutive given our net loss in each period. 
+The following table presents potentially dilutive items excluded from the computation of diluted net loss per share for the following periods (in thousands) because the impact of including them would have been antidilutive: 
+Year Ended December 31, 
+2022		2021		2020 
+Convertible notes	26,042 			5,588 			— 	 
+Stock options	35,719 			29,226 			40,458 	 
+Unvested RSUs and PVUs	38,105 			13,697 			10,366 	 
+  
