@@ -1,0 +1,61 @@
+Console Interaction 1:
+
+Here are all of the commands that you are allowed to use!
+'Summary': Gives a summary of all chats in the system
+'Showchat-summary <Chat NO>': Gives a summary of chat specified
+'Showchat <Chat NO>': Outputs the chat logs of chat specified
+'PA4': Continues on to use PA4
+'Quit': Quits the program
+	summary
+There are 5 total chats to date with user asking 36 times and system respond 36 times. Total duration is 239 seconds.
+	quit
+	
+Console Interaction 2:
+
+Here are all of the commands that you are allowed to use!
+'Summary': Gives a summary of all chats in the system
+'Showchat-summary <Chat NO>': Gives a summary of chat specified
+'Showchat <Chat NO>': Outputs the chat logs of chat specified
+'PA4': Continues on to use PA4
+'Quit': Quits the program
+	showchat-summary 3
+Chat 3 has user asking 12 times and system respond 12 times. Total duration is 93 seconds.
+	quit
+	
+Console Interaction 3:
+
+Here are all of the commands that you are allowed to use!
+'Summary': Gives a summary of all chats in the system
+'Showchat-summary <Chat NO>': Gives a summary of chat specified
+'Showchat <Chat NO>': Outputs the chat logs of chat specified
+'PA4': Continues on to use PA4
+'Quit': Quits the program
+	showchat 2
+Welcome to the ultimate business chatbot! Knowledgeable about Unity and Tupperware!
+Please message what you would like to discuss :)
+	unity finances
+Results have been printed to output.txt in the data file :)
+If you would like to end the chat, reply 'quit' or just 'q'
+	q
+Goodbye!!!
+quit
+
+Console Interaction 4:
+
+Here are all of the commands that you are allowed to use!
+'Summary': Gives a summary of all chats in the system
+'Showchat-summary <Chat NO>': Gives a summary of chat specified
+'Showchat <Chat NO>': Outputs the chat logs of chat specified
+'PA4': Continues on to use PA4
+'Quit': Quits the program
+	PA4
+Welcome to the ultimate business chatbot! Knowledgeable about Unity and Tupperware!
+Please message what you would like to discuss :)
+	hi
+Please include either the name 'Unity' or 'Tupperware' in your input
+	unity 10k
+I do not know this information
+	im done
+Please include either the name 'Unity' or 'Tupperware' in your input
+	quit
+Goodbye!!!

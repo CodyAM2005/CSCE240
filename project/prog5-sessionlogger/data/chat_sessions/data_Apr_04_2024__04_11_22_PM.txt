@@ -1,0 +1,10 @@
+Welcome to the ultimate business chatbot! Knowledgeable about Unity and Tupperware!
+Please message what you would like to discuss :)
+	hi
+Please include either the name 'Unity' or 'Tupperware' in your input
+	unity 10k
+I do not know this information
+	im done
+Please include either the name 'Unity' or 'Tupperware' in your input
+	quit
+Goodbye!!!
