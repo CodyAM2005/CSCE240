@@ -1,0 +1,8 @@
+Welcome to the ultimate business chatbot! Knowledgeable about Unity and Tupperware!
+Please message what you would like to discuss :)
+	hi
+Please include either the name 'Unity' or 'Tupperware' in your input
+	session-summary
+There are 11 total chats to date with user asking 99 times and system respond 99 times. Total duration is 379 seconds.
+	q
+Goodbye!!!

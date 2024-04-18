@@ -1,0 +1,8 @@
+Welcome to the ultimate business chatbot! Knowledgeable about Unity and Tupperware!
+Please message what you would like to discuss :)
+	what companies are supported
+The companies that are supported are 'Unity' and 'Tupperware'
+	)hi
+Please include either the name 'Unity' or 'Tupperware' in your input
+	q
+Goodbye!!!

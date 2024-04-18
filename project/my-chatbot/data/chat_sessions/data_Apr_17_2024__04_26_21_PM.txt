@@ -1,0 +1,32 @@
+Welcome to the ultimate business chatbot! Knowledgeable about Unity and Tupperware!
+Please message what you would like to discuss :)
+	what are the supported companies?
+The companies that are supported are 'Unity' and 'Tupperware'
+	unity risk factors
+Results have been printed to output.txt in the data file :)
+If you would like to end the chat, reply 'quit' or just 'q'
+	unity sdfsdf
+I do not know this information
+	alshkdglkasdhg
+Please include either the name 'Unity' or 'Tupperware' in your input
+	show chat summary
+There are 18 total chats to date with user asking 126 times and system respond 126 times. Total duration is 540 seconds.
+	session-chatsummary 10
+Chat 10 has user asking 8 times and system respond 8 times. Total duration is 52 seconds.
+	session-showchat 200
+Error, there is no chat with the ID num of 200
+	session-showchat 20
+Error, there is no chat with the ID num of 20
+	session-showchat 16
+Welcome to the ultimate business chatbot! Knowledgeable about Unity and Tupperware!
+Please message what you would like to discuss :)
+	what companies are supported
+The companies that are supported are 'Unity' and 'Tupperware'
+	)hi
+Please include either the name 'Unity' or 'Tupperware' in your input
+	q
+Goodbye!!!
+	session-summary
+There are 18 total chats to date with user asking 126 times and system respond 126 times. Total duration is 540 seconds.
+	q
+Goodbye!!!

@@ -1,0 +1,7 @@
+Welcome to the ultimate business chatbot! Knowledgeable about Unity and Tupperware!
+Please message what you would like to discuss :)
+	unity finances
+Results have been printed to output.txt in the data file :)
+If you would like to end the chat, reply 'quit' or just 'q'
+	q
+Goodbye!!!

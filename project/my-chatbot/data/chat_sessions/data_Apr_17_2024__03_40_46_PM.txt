@@ -1,0 +1,12 @@
+Welcome to the ultimate business chatbot! Knowledgeable about Unity and Tupperware!
+Please message what you would like to discuss :)
+	show chat summaries
+There are 17 total chats to date with user asking 121 times and system respond 121 times. Total duration is 504 seconds.
+	what companies are supported
+The companies that are supported are 'Unity' and 'Tupperware'
+	tupperware file stats
+There are 4 parts, 6469 lines, 95446 words, and 709536 characters in the file :)
+	session-chatsummary 15
+Chat 15 has user asking 6 times and system respond 6 times. Total duration is 21 seconds.
+	q
+Goodbye!!!

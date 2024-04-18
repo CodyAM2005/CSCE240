@@ -1,0 +1,15 @@
+Welcome to the ultimate business chatbot! Knowledgeable about Unity and Tupperware!
+Please message what you would like to discuss :)
+	session-showchat 4
+Welcome to the ultimate business chatbot! Knowledgeable about Unity and Tupperware!
+Please message what you would like to discuss :)
+	q
+Goodbye!!!
+	session-chatsummary 10
+Please include either the name 'Unity' or 'Tupperware' in your input
+	session-summarychat 10
+Chat 10 has user asking 8 times and system respond 8 times. Total duration is 52 seconds.
+	session-summary
+There are 12 total chats to date with user asking 102 times and system respond 102 times. Total duration is 384 seconds.
+	q
+Goodbye!!!

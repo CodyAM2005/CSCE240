@@ -1,0 +1,9 @@
+Welcome to the ultimate business chatbot! Knowledgeable about Unity and Tupperware!
+Please message what you would like to discuss :)
+	session-showchat 100
+Error, there is no chat with the ID num of 100
+	
+session-chatsummary 10
+Chat 10 has user asking 8 times and system respond 8 times. Total duration is 52 seconds.
+	q
+Goodbye!!!

@@ -1,0 +1,15 @@
+Welcome to the ultimate business chatbot! Knowledgeable about Unity and Tupperware!
+Please message what you would like to discuss :)
+	hi
+Please include either the name 'Unity' or 'Tupperware' in your input
+	unity
+I do not know this information
+	session-summary
+session-showchat 4
+session-chatsummary 3
+Please include either the name 'Unity' or 'Tupperware' in your input
+	session-summarychat 3
+1
+Please include either the name 'Unity' or 'Tupperware' in your input
+	q
+Goodbye!!!
